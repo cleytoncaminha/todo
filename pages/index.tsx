@@ -38,7 +38,7 @@ function HomePage() {
                                 <input type="checkbox" disabled />
                             </th>
                             <th align="left">Id</th>
-                            <th align="left">Conteúdo</th>
+                            <th align="left">nome do conteudo</th>
                             <th />
                         </tr>
                     </thead>
